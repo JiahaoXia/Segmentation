@@ -1,2 +1,2 @@
 # Segmentation
-Graph Based Image Segmentation
+1、Graph Based Image Segmentation
